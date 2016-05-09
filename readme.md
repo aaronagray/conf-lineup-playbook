@@ -14,4 +14,4 @@ Double blind CFPs are effective at finding talks with merit within a pool of spe
 There is major risks in this approach. For instance, if I end up with a lineup of 100% white men, I have no mechanism to point to but myself. I can't blame a blind selection process. To mitigate this, I've introduced one more mechanism to the process.
 
 # Earn your spot
-* In order for speakers selected for the first 80% of the lineup, they must introduce organizers to someone interested in giving – and able to give – an amazing talk on the subject of the conference.
+* In order for speakers to confirm their spot (specifically those selected for the first 80% of the lineup), they must introduce organizers to someone interested in giving – and able to give – an amazing talk on the subject of the conference.
